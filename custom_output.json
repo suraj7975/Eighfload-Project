@@ -1,0 +1,43 @@
+[
+  {
+    "full_name": "Priya Sharma",
+    "primary_email": "priya.sharma@gmail.com",
+    "phone": "+919876543210",
+    "skills": [
+      "Python",
+      "AWS",
+      "Kubernetes",
+      "PostgreSQL",
+      "Docker",
+      "REST APIs"
+    ],
+    "overall_confidence": 0.66
+  },
+  {
+    "full_name": "Rohit Mehta",
+    "primary_email": "rohit.mehta@example.com",
+    "phone": "+919876500000",
+    "skills": null,
+    "overall_confidence": 0.81
+  },
+  {
+    "full_name": "Garbage Row",
+    "primary_email": null,
+    "phone": null,
+    "skills": null,
+    "overall_confidence": 0.85
+  },
+  {
+    "full_name": "Anjali Rao",
+    "primary_email": "anjali.rao@example.com",
+    "phone": "+919123456780",
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "Machine Learning",
+      "SQL",
+      "Docker"
+    ],
+    "overall_confidence": 0.61
+  }
+]

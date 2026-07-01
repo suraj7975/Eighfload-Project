@@ -1,0 +1,26 @@
+[
+  {
+    "candidate_name": "Priya Sharma",
+    "contact": {
+      "email_address": "PRIYA.SHARMA@gmail.com",
+      "phone_number": "+919876543210"
+    },
+    "location": {"city": "Bengaluru", "state": "Karnataka", "country": "India"},
+    "work_history": [
+      {"employer": "Acme Corp", "role": "Senior Backend Engineer", "start_date": "2022-03", "end_date": "present", "description": "Leads the payments platform team."},
+      {"employer": "Beta Labs", "role": "Backend Engineer", "start_date": "Jun 2019", "end_date": "Feb 2022", "description": "Built core APIs."}
+    ],
+    "skill_tags": ["python", "postgres", "aws", "k8s"],
+    "years_of_experience": 6
+  },
+  {
+    "candidate_name": "Anjali Rao",
+    "contact": {"email_address": "anjali.rao@example.com", "phone_number": "9123456780"},
+    "location": {"city": "Pune", "country": "India"},
+    "work_history": [
+      {"employer": "DataWorks", "role": "Data Scientist", "start_date": "2021", "end_date": "present", "description": "ML models for churn prediction."}
+    ],
+    "skill_tags": ["python", "ml", "tensorflow"],
+    "years_of_experience": 4
+  }
+]

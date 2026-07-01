@@ -1,0 +1,4 @@
+Spoke with Anjali Rao (anjali.rao@example.com) today, seems like a strong fit for the ML platform team.
+She has about 4 years experience and is currently a Data Scientist.
+Skills: python, tensorflow, sql, docker
+Salary expectation is in line with our band, will follow up next week.
